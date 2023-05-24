@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.cabeçalho {
+    background-color: #EADBCE;
+    color: rgb(237, 243, 238);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 02px 0;
+}
+
+.imagem-cabeçalho{
+    width: 15%;
+}
+
+.cabeçalho-lista-i{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.carro-imagem{
+    width: 25%;
+}
+
+.mercedez{
+    background-image: linear-gradient(#dd2e8e,#b93ae0);
+    color: rgb(113, 199, 105);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.mercedez-titulo{
+    padding: 24px 0;
+}
+
+.mercedez-div-conteudo{
+    width: 35%;
+}
+
+.imagem-carro1{
+    width: 170px;
+}
+
+.imagem-carro2{
+    width: 170px;
+}
+
+.imagem-carro3{
+    width: 170px;
+}
+
+.parte-inferior-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.carros-div{
+    text-align: center;
+}
+
+.bloco-arrumar-fotos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.imagem-carro4{
+    width: 140px;
+}
+
+.imagem-carro5{
+    width: 170px;
+}
+
+.imagem-carro6{
+    width: 140px;
+}
+
+.imagem-carro7{
+    width: 170px;
+}
+
+.rodape{
+    background-color: rgb(190, 211, 72);
+    text-align: center;
+}
+
+.imagem-rodape{
+    height: 60px;
+    padding: 7px 0;
+}
